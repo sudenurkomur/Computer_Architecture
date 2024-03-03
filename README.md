@@ -4,3 +4,5 @@
 
 
 # ![Computer_Architecture](https://github.com/sudenurkomur/Computer_Architecture/blob/main/Photos/ExperimentB.png)
+
+# ![Computer_Architecture](https://github.com/sudenurkomur/Computer_Architecture/blob/main/Photos/experiment.png)
